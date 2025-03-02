@@ -1,0 +1,12 @@
+{
+    "Environment":"https://bookcart.azurewebsites.net/",
+    "browserName":"chrome",
+    "EnableHeadless":"True",
+    "username":"Namratha Sri",
+    "password":"Namratha3",
+
+    "Book_name":"harry potter"
+ 
+ 
+   
+ }
